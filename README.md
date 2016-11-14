@@ -9,11 +9,16 @@ Students are expected to:
 
 
 Member list
+
 =====================================
 
-*Add student list of your group here*
+Nguyễn Mạnh Tuấn
+Tạ Hoàng Hải Nam
+Lê Hà Trang
+Đinh Quang Huy
+Đỗ Huy Mạnh
+
 
 Project description
 =====================================
-
-*Add your project description here*
+Java program to solve the "Knight's Tour" problem!!!!!!
